@@ -57,7 +57,7 @@ if(isset($_POST['Sign-In'])){
 <div class="welcome_wrapper">
 <div class="wrp_inner">
 <div class="color_box">
-	<?php if($_SESSION['email']){ ?>
+	<?php if(isset($_SESSION['email'])){ ?>
 		<div class="start-txt">
 			<h2>Welcome to</h2> <h1>Athena</h1>
 			<a href="questionnaire.php">Enter Here</a>

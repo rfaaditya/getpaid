@@ -52,7 +52,7 @@ $base_url = 'getpaid';
 
 if(isset($_POST['logout'])){ 
 		session_destroy();
-		header("Location: /");
+		header("Location: /".$base_url);
 }
 
 
