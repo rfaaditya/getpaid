@@ -28,7 +28,7 @@ catch(PDOException $e)
 //	HybridAuth Config file: http://hybridauth.sourceforge.net/userguide/Configuration.html
 // ----------------------------------------------------------------------------------------
 $config =array(
-		"base_url" => "http://d1.reinforceapp.net/hybridauth/index.php", 
+		"base_url" => "http://35.196.143.136/getpaid/hybridauth/index.php", 
 		"providers" => array ( 
 
 			"Google" => array ( 
