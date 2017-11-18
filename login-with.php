@@ -26,7 +26,7 @@
 					
 					if(!empty($result)){
 						$_SESSION['email'] = $user_profile->email;
-						header('location: /');
+						header('location: /'.$base_url);
 					}
 					else{
 							$sql = "INSERT INTO users (name, email)
@@ -36,7 +36,7 @@
 							
 							$_SESSION['email'] = $user_profile->email;
 							
-							header('location: /');
+							header('location: /'.$base_url);
 					}
 					
 				}
