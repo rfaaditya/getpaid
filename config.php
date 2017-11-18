@@ -1,9 +1,9 @@
 <?php
 	session_start();
 	$servername = "localhost";
-	$username = "reinforc_drupal";
-	$password = "%Vh7^1MB6H46";
-	$dbname = "reinforc_drupal1";
+	$username = "root";
+	$password = "Rut#0258";
+	$dbname = "getpaid";
  try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
     // set the PDO error mode to exception
