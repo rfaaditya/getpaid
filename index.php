@@ -10,7 +10,7 @@ if(isset($_POST['Sign-In'])){
 				$result = $stmt->fetchAll(); 
 				if(!empty($result)){
 					
-					header('location: '.$base_url);
+					header('location: /'.$base_url);
 					$_SESSION['email'] = $email;
 				}
 				else{
