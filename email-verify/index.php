@@ -9,7 +9,7 @@
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
-$from_email = 'pawan.developers@gmail.com';
+$from_email = 'info@reinforcewebsol.com';
 if(isset($_REQUEST['email']) && $_REQUEST['email']){
 	include 'VerifyEmail.php';
 	$ve = new VerifyEmail($_REQUEST['email'], $from_email);
