@@ -48,7 +48,7 @@ $config =array(
 		"debug_file" => "",
 	);
 	
-$base_url = $_SERVER['SERVER_NAME'];
+$base_url = 'getpaid';
 
 if(isset($_POST['logout'])){ 
 		session_destroy();
