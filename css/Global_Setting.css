@@ -1,0 +1,30 @@
+
+/*--------css for Responsive captcha----------*/
+#rc-imageselect, .g-recaptcha {transform:scale(0.77);-webkit-transform:scale(0.77);transform-origin:0 0;-webkit-transform-origin:0 0;} 
+/*--------css for Responsive captcha End----------*/
+
+*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box}html,body{border:0 none;margin:0;padding:0; line-height:normal;}
+div,a,ul,li{behavior:url(PIE.htc)}h1,h2,h3,h4,h5,h6{margin:0;padding:0}
+button:focus{outline:0}img{border:0 none;max-width:100%;height:auto;vertical-align:middle}img a{border:0 none;outline:0 none}a,a:link,a:visited,a:hover,a:focus{text-decoration:none;-moz-outline-style:none;outline:none}.clearfix{clear:both}*{margin:0}
+p,ul,ol{margin:0}
+/*ul{list-style:none; padding:0;}*/
+ul{padding-left: 15px;}
+
+section{float:left; width:100%;}
+
+h1{font-size:32px;}
+h2{font-size:24px;}
+h3{font-size:18px;}
+h4{font-size:16px;}
+h5{font-size:13px;}
+h6{font-size:10px;}
+p {font-size:14px;}
+h1, h2, h3, h4, h5, h6, p{color:#000;}
+
+
+.v_align{display:table;} 
+.v_align *{display:table-cell; vertical-align: middle; float:none !important;}
+
+
+
+

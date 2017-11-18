@@ -1,0 +1,225 @@
+[09-Nov-2017 07:41:43 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:43:00 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:43:01 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:43:42 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:43:55 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:45:50 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:46:00 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:46:50 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:47:55 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:47:56 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:48:29 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 71
+[09-Nov-2017 07:49:25 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:49:30 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:49:31 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:49:51 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:50:04 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:50:06 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:50:10 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:50:32 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:51:24 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:51:44 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:51:53 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:52:55 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:53:45 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:53:48 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:53:58 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:54:08 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 07:54:25 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:00:24 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:06:22 CST6CDT] PHP Fatal error:  Class 'TableRows' not found in /home/reinforc/public_html/drupal/d1/login-with.php on line 28
+[09-Nov-2017 08:08:20 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:15:31 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:19:21 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:19:26 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:20:16 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:23:22 CST6CDT] PHP Fatal error:  Class 'Hybrid_Auth' not found in /home/reinforc/public_html/drupal/d1/login-with.php on line 12
+[09-Nov-2017 08:23:30 CST6CDT] PHP Fatal error:  Class 'Hybrid_Auth' not found in /home/reinforc/public_html/drupal/d1/login-with.php on line 12
+[09-Nov-2017 08:24:39 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:25:48 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:28:04 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:28:40 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:35:59 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:37:44 CST6CDT] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 72
+[09-Nov-2017 08:40:44 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:45:40 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:53:11 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 214
+[09-Nov-2017 08:53:47 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/thirdparty/Facebook/base_facebook.php' (include_path='.:/usr/local/php53/pear') in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 39
+[09-Nov-2017 08:54:04 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[09-Nov-2017 08:56:40 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[10-Nov-2017 00:29:51 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[10-Nov-2017 00:32:07 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[10-Nov-2017 00:34:41 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 71
+[10-Nov-2017 00:35:14 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 223
+[10-Nov-2017 00:35:35 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 291
+[10-Nov-2017 00:35:50 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 315
+[10-Nov-2017 00:36:05 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 352
+[10-Nov-2017 00:36:19 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 355
+[10-Nov-2017 00:45:17 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/User_Profile.php' (include_path='.:/usr/local/php53/pear') in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Auth.php on line 99
+[10-Nov-2017 00:45:40 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/User_Profile.php' (include_path='.:/usr/local/php53/pear') in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Auth.php on line 99
+[10-Nov-2017 00:46:47 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[10-Nov-2017 02:58:19 CST6CDT] PHP Fatal error:  Call to a member function logout() on a non-object in /home/reinforc/public_html/drupal/d1/login-with.php on line 73
+[10-Nov-2017 03:57:58 CST6CDT] PHP Fatal error:  Call to a member function logout() on a non-object in /home/reinforc/public_html/drupal/d1/login-with.php on line 73
+[10-Nov-2017 04:46:51 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[10-Nov-2017 04:46:54 CST6CDT] PHP Fatal error:  Call to a member function logout() on a non-object in /home/reinforc/public_html/drupal/d1/login-with.php on line 73
+[10-Nov-2017 04:49:20 CST6CDT] PHP Fatal error:  Call to a member function logout() on a non-object in /home/reinforc/public_html/drupal/d1/login-with.php on line 73
+[10-Nov-2017 05:06:08 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[10-Nov-2017 06:09:17 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[10-Nov-2017 06:18:48 CST6CDT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/reinforc/public_html/drupal/d1/index.php on line 7
+[10-Nov-2017 07:17:00 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[10-Nov-2017 13:41:46 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[13-Nov-2017 05:01:28 CST6CDT] PHP Fatal error:  Class 'TableRows' not found in /home/reinforc/public_html/drupal/d1/page01_features.php on line 146
+[13-Nov-2017 05:05:51 CST6CDT] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/reinforc/public_html/drupal/d1/page01_features.php on line 144
+[13-Nov-2017 05:44:22 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Bahamas' in 'where clause'' in /home/reinforc/public_html/drupal/d1/country.php:8
+Stack trace:
+#0 /home/reinforc/public_html/drupal/d1/country.php(8): PDOStatement->execute()
+#1 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/country.php on line 8
+[13-Nov-2017 05:44:36 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Afghanistan' in 'where clause'' in /home/reinforc/public_html/drupal/d1/country.php:8
+Stack trace:
+#0 /home/reinforc/public_html/drupal/d1/country.php(8): PDOStatement->execute()
+#1 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/country.php on line 8
+[13-Nov-2017 08:00:35 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[13-Nov-2017 08:12:07 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[13-Nov-2017 21:38:29 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[14-Nov-2017 05:06:09 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/reinforc/public_html/drupal/d1/step.php on line 34
+[14-Nov-2017 05:18:31 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'uid' in 'field list'' in /home/reinforc/public_html/drupal/d1/index.php:8
+Stack trace:
+#0 /home/reinforc/public_html/drupal/d1/index.php(8): PDOStatement->execute()
+#1 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/index.php on line 8
+[14-Nov-2017 05:41:02 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/reinforc/public_html/drupal/d1/hybridauth/Hybrid/Providers/Facebook.php on line 26
+[14-Nov-2017 05:55:10 CST6CDT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_DB has a deprecated constructor in /home/reinforc/public_html/drupal/d1/pma.php on line 146
+[14-Nov-2017 05:55:10 CST6CDT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/reinforc/public_html/drupal/d1/pma.php on line 171
+[14-Nov-2017 05:55:10 CST6CDT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; TmpFile has a deprecated constructor in /home/reinforc/public_html/drupal/d1/pma.php on line 502
+[14-Nov-2017 05:55:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/reinforc/public_html/drupal/d1/pma.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/pma.php on line 2
+[14-Nov-2017 05:55:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/reinforc/public_html/drupal/d1/pma.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/pma.php on line 2
+[14-Nov-2017 05:55:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/reinforc/public_html/drupal/d1/pma.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/pma.php on line 2
+[14-Nov-2017 05:55:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/reinforc/public_html/drupal/d1/pma.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/pma.php on line 2
+[14-Nov-2017 05:55:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/reinforc/public_html/drupal/d1/pma.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/pma.php on line 2
+[14-Nov-2017 05:55:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/reinforc/public_html/drupal/d1/pma.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/pma.php on line 2
+[14-Nov-2017 05:55:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/reinforc/public_html/drupal/d1/pma.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/pma.php on line 2
+[14-Nov-2017 05:55:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/reinforc/public_html/drupal/d1/pma.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/pma.php on line 2
+[14-Nov-2017 05:55:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/reinforc/public_html/drupal/d1/pma.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/pma.php on line 2
+[14-Nov-2017 05:55:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/reinforc/public_html/drupal/d1/pma.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/pma.php on line 2
+[14-Nov-2017 07:24:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/reinforc/public_html/drupal/d1/pma.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/pma.php on line 2
+[14-Nov-2017 07:24:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/reinforc/public_html/drupal/d1/pma.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/pma.php on line 2
+[15-Nov-2017 01:29:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function logout() on null in /home/reinforc/public_html/drupal/d1/login-with.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/login-with.php on line 68
+[15-Nov-2017 03:16:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function logout() on null in /home/reinforc/public_html/drupal/d1/login-with.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/login-with.php on line 68
+[15-Nov-2017 03:17:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function logout() on null in /home/reinforc/public_html/drupal/d1/login-with.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/login-with.php on line 68
+[15-Nov-2017 03:17:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function logout() on null in /home/reinforc/public_html/drupal/d1/login-with.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/login-with.php on line 68
+[15-Nov-2017 03:17:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function logout() on null in /home/reinforc/public_html/drupal/d1/login-with.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/login-with.php on line 68
+[15-Nov-2017 03:18:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function logout() on null in /home/reinforc/public_html/drupal/d1/login-with.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/login-with.php on line 68
+[15-Nov-2017 03:18:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function logout() on null in /home/reinforc/public_html/drupal/d1/login-with.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/login-with.php on line 68
+[15-Nov-2017 03:18:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function logout() on null in /home/reinforc/public_html/drupal/d1/login-with.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/login-with.php on line 68
+[15-Nov-2017 03:18:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function logout() on null in /home/reinforc/public_html/drupal/d1/login-with.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/login-with.php on line 68
+[15-Nov-2017 03:18:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function logout() on null in /home/reinforc/public_html/drupal/d1/login-with.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/login-with.php on line 68
+[15-Nov-2017 03:24:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function logout() on null in /home/reinforc/public_html/drupal/d1/login-with.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/login-with.php on line 68
+[15-Nov-2017 07:09:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/reinforc/public_html/drupal/d1/page01_features.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/page01_features.php on line 144
+[15-Nov-2017 07:10:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/reinforc/public_html/drupal/d1/page01_features.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/page01_features.php on line 144
+[15-Nov-2017 07:27:56 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/reinforc/public_html/drupal/d1/config.php on line 55
+[15-Nov-2017 07:27:57 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/reinforc/public_html/drupal/d1/config.php on line 55
+[15-Nov-2017 07:32:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/reinforc/public_html/drupal/d1/country.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/country.php on line 7
+[15-Nov-2017 07:32:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/reinforc/public_html/drupal/d1/country.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/country.php on line 7
+[15-Nov-2017 07:32:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/reinforc/public_html/drupal/d1/country.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/country.php on line 7
+[17-Nov-2017 04:25:16 CST6CDT] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE), expecting ',' or ')' in /home/reinforc/public_html/drupal/d1/email.php on line 11
+[18-Nov-2017 00:39:40 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'state_id' in 'where clause' in /home/reinforc/public_html/drupal/d1/county.php:8
+Stack trace:
+#0 /home/reinforc/public_html/drupal/d1/county.php(8): PDOStatement->execute()
+#1 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/county.php on line 8
+[18-Nov-2017 00:47:42 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'state_id' in 'where clause' in /home/reinforc/public_html/drupal/d1/county.php:8
+Stack trace:
+#0 /home/reinforc/public_html/drupal/d1/county.php(8): PDOStatement->execute()
+#1 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/county.php on line 8
+[18-Nov-2017 00:59:15 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1 in /home/reinforc/public_html/drupal/d1/county.php:9
+Stack trace:
+#0 /home/reinforc/public_html/drupal/d1/county.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/reinforc/public_html/drupal/d1/county.php on line 9
